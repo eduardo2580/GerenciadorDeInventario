@@ -9,7 +9,6 @@
 ## 🔐 Key Restrictions (Full License in [LICENSE](LICENSE) file)
 - **Forbidden**: Commercial use, AI training, blockchain, public deployments
 - **Mandatory**: Copyright notice & [original repo link](https://github.com/eduardo2580/GerenciadorDeInventario)
-- **Requires**: Content protection measures in derivative educational materials
 - **Enforcement**: Civil/criminal penalties for violations (Brazilian jurisdiction)
 
 ## 📋 Project Overview
