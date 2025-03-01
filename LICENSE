@@ -1,15 +1,49 @@
-# Copyright Notice
+# Restricted Educational License
+**Copyright (c) 2025 Eduardo Souza Rodrigues**  
+*Protected under Brazilian Law 9,610/98 and International Copyright Treaties*
 
-All copyrights for this repository are owned by:
+## 1. Permitted Usage
+You may ONLY use this repository for:
+- Classroom instruction at accredited institutions
+- Academic research with proper citation
+- Educational documentation (must include anti-copy measures)
+- Non-profit student projects (non-deployed)
 
-Eduardo Souza Rodrigues
+## 2. Strict Prohibitions
+Expressly forbidden without written authorization:
+- Personal projects (commercial or non-commercial)
+- Commercial applications
+- AI/ML training systems
+- Blockchain/NFT implementations
+- Public deployments
+- Code modifications/derivative works
+- Redistribution in any form
 
-You are allowed to:
-- View the code and contents of this repository for personal use.
-- Use the code for educational and non-commercial purposes.
+## 3. Requirements
+Any educational use must:
+1. Display permanent notice: "© Eduardo Souza Rodrigues - Licensed for Educational Use Only"
+2. Link to original repository: `https://github.com/eduardo2580/GerenciadorDeInventario`
+3. Implement content protection:
+   - Disable right-click/download
+   - Prevent text selection/copying
+   - Use read-only access methods
 
-You are not allowed to:
-- Copy, distribute, or use the code for commercial purposes without explicit written permission from Eduardo Souza Rodrigues.
-- Sell or sublicense the code.
+## 4. Dynamic Amendments
+This license may be modified without notice:
+- Changes take effect immediately upon publication
+- Users must check `LICENSE` before each access
+- Continued use constitutes acceptance of new terms
 
-This copyright notice is subject to change. Please check the repository for the most up-to-date version.
+## 5. Enforcement & Penalties
+Violations will result in:
+- Immediate GitHub DMCA takedown (Article 19, Decree 9.854/2019)
+- Civil lawsuits (up to R$500,000 per violation)
+- Criminal charges under Art. 184 Brazilian Penal Code
+- Permanent access blocking via content protection systems
+
+## 6. Jurisdiction
+- Governing Law: Federative Republic of Brazil
+- Exclusive Legal Forum: São Paulo/SP courts
+
+
+*Last Updated: 2025-03-01*  
